@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="593px" height="606px" viewBox="0 0 593 606" version="1.1"
+     xmlns="http://www.w3.org/2000/svg">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Page 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1"
+                 points="897.5 3185 641 3253.9134 641 3417.34835 641 3481.63716 641 3519.03253 641 3638.54398 897.5 3718 897.5 3629.84795 1153.97968 3560.88574 1153.98375 3519.03253 1153.98375 3481.63716 1153.98781 3417.34835 1154 3264.42755"></polygon>
+        <filter x="-14.1%" y="-8.9%" width="128.3%" height="127.2%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="25" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="20" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.751169218   0 0 0 0 0.751169218   0 0 0 0 0.751169218  0 0 0 0.5 0"
+                           type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="über-uns-copy" transform="translate(-601.000000, -3173.000000)">
+            <g id="Page-1">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill-opacity="0.6" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>
